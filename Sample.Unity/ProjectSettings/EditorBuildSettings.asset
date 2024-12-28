@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/game2.unity
     guid: 83c3f2b663ca0fc41903b42e98eb8b1e
+  - enabled: 0
+    path: Assets/foo.unity
+    guid: 4b6bb11e5d82d8f4c8a9d7c620e1dff9
+  - enabled: 1
+    path: Assets/game.unity
+    guid: 6a4e4ecafe7cea648abb1acfa3e9ffd0
   m_configObjects: {}
